@@ -4,7 +4,7 @@
 ~~~  
 git clone https://github.com/braginfim/vtb
 cd vtb
-pip install -r req.txt
+pip install -r req.txt --user
 ~~~
 ### Запуск 
 ~~~
